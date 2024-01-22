@@ -1,6 +1,8 @@
 ## Introduction
 
-Project code for the RNN.
+Project code for "Effect of common Hyperparameters
+on Structure of Functional Modules
+in Recurrent Neural Networks". 
 
 ## Installation
 
