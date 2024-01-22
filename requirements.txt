@@ -1,0 +1,17 @@
+pathlib
+tqdm
+pyyaml
+numpy
+matplotlib
+torch
+torchvision
+torchdiffeq
+matplotlib
+wandb
+plotly
+h5py
+scikit-learn
+pathlib
+#random
+#sys
+#torchmetricss
